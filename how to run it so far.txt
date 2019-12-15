@@ -1,0 +1,18 @@
+Step1:powershell
+
+step2:C:\Users\Datta\Desktop\FUCK MY ASS OPENCV> 
+cd '.\FUCK MY ASS OPENCV\'   
+
+step3:virtualenv anyname
+//doesnt work whatever
+
+Testing File
+Open File Location in Powershell or some shit
+
+python testcv.txt
+
+q to exit  :0
+
+just change the filename to test the other stuff 
+
+
